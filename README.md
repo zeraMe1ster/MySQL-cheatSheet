@@ -1,6 +1,5 @@
 # MySQL-cheatSheet
 
- MySQL cheat sheet 
 ===============
 
 Commands
